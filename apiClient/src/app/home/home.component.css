@@ -2,7 +2,9 @@
     flex:1 1 auto;
 }
 .btn-home {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    margin: 16px;
+}
+
+.col-md-4 {
+    margin-left: 15px;
 }
